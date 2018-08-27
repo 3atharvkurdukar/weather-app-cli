@@ -1,7 +1,7 @@
 {
-  "name": "udemy-nodejs",
-  "version": "1.1.0",
-  "description": "This repository demonstrates what I learnt from the Udemy - The Complete Nodejs Developer Course - 2",
+  "name": "weather-app-cli",
+  "version": "1.0.0",
+  "description": "This is a weather app designed in Node.JS with CLI",
   "main": "app.js",
   "dependencies": {
     "eslint-config-standard": "^11.0.0",
